@@ -36,4 +36,6 @@ Bu çalışma, LiDAR sisteminin kullanım alanlarını ve verilerin işlenmesi i
 ## 👥 Katkıda Bulunanlar
 Bu proje, Kocaeli Üniversitesi Programlama Laboratuvarı dersi kapsamında geliştirilmiştir.
 
+[Ahsen İkbal TÜRK](https://github.com/CengAIT)
+
 ![LiDAR Analiz Grafiği](lidarekran.png)
