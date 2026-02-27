@@ -30,6 +30,18 @@ Bu proje, otonom mobil robotların şarj ünitesine yüksek hassasiyetle yanaşa
 
 * Tespit edilen kesişim noktalarının robota olan mesafeleri fiziksel ortamla uyumlu olarak 1-6 metre aralığında ölçülmüştür.
 
+## 📂 Örnek Veri Setleri (TOML)
+Proje klasöründe yer alan `.toml` dosyaları, LiDAR sensöründen gelen farklı senaryolara ait ham verileri içerir. Algoritmayı test etmek için bu dosyaları kullanabilirsiniz:
+
+* `scan_data_NaN.toml`
+* `lidar1.toml`
+* `lidar2.toml`
+* `lidar3.toml`
+* `lidar4.toml`
+* `lidar5.toml`
+
+**Not:** Yazılımı çalıştırırken dosya yolunu bu dosyalardan birine yönlendirerek farklı sonuçları gözlemleyebilirsiniz.
+
 ## 🏁 Sonuç
 Bu çalışma, LiDAR sisteminin kullanım alanlarını ve verilerin işlenmesi için gereken karmaşık algoritmaları pratik bir uygulama üzerinden öğretmiştir. Proje, teorik programlama bilgisinin günlük hayattaki otonom sistemlerde nasıl somutlaştığını göstermektedir.
 
@@ -37,5 +49,7 @@ Bu çalışma, LiDAR sisteminin kullanım alanlarını ve verilerin işlenmesi i
 Bu proje, Kocaeli Üniversitesi Programlama Laboratuvarı dersi kapsamında geliştirilmiştir.
 
 [Ahsen İkbal TÜRK](https://github.com/CengAIT)
+
+[Zehra GÜLMÜŞ](https://github.com/zehra-ceng)
 
 ![LiDAR Analiz Grafiği](lidarekran.png)
