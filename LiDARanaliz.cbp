@@ -11,7 +11,7 @@
 				<Option object_output="obj/Debug/" />
 				<Option type="1" />
 				<Option compiler="gcc" />
-				<Option parameters='&quot;C:\Users\Acer\Desktop\Programlama lab-1\1. proje\scan_data_NaN.toml&quot;' />
+				<Option parameters='&quot;C:\Users\Acer\Desktop\LiDARanaliz\scan_data_NaN.toml&quot;' />
 				<Compiler>
 					<Add option="-g" />
 				</Compiler>
